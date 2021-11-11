@@ -177,8 +177,8 @@ CLS_PlatformManager 是iOS端SDK的核心管理类, 包含了对房间内所有�
 
 ### Properties
 
-* [auth_token](#1.2.1 auth_token)
-* [delegate](#1.2.2 delegate)
+* [auth_token](#auth_token)
+* [delegate](#delegate)
 
 ### Methods
 
