@@ -1,6 +1,6 @@
 # Cloud_Lvb_SDK iOS API Reference
 
-Dxz Meeting iOS SDK是为 iOS 平台用户视频会议服务的开源 SDK。通过大学长开放平台自研RTC，RTM系统,为客户提供质量可靠的视频会议服务。
+Dxz Meeting iOS SDK是为 iOS 平台用户音视频服务的开源 SDK。通过大学长开放平台自研RTC，RTM系统,为客户提供质量可靠的音视频服务。
 
 # 类
 
