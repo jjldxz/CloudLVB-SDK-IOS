@@ -1,0 +1,6 @@
+framework module cloud_lvb_sdk_ios {
+  umbrella header "cloud_lvb_sdk_ios.h"
+
+  export *
+  module * { export * }
+}
