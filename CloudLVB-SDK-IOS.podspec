@@ -91,7 +91,7 @@ DaXueZhang Open Platform Audio Video Founction SDK For iOS - CloudLVB-SDK-IOS.
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Lib", "Lib/cloud_lvb_sdk_ios.framework/Headers/*"
+  # spec.source_files  = "Lib", "Lib/cloud_lvb_sdk_ios.framework/Headers/*"
   spec.vendored_frameworks = "Lib/cloud_lvb_sdk_ios.framework"
   # spec.exclude_files = "Lib/cloud_lvb_sdk_ios.framework/Headers/*.h"
 
@@ -119,7 +119,7 @@ DaXueZhang Open Platform Audio Video Founction SDK For iOS - CloudLVB-SDK-IOS.
   #
 
   # spec.framework  = "SomeFramework"
-  spec.frameworks = "UIKit", "UIFoundation", "CoreTelephony"
+  spec.frameworks = "UIKit", "Foundation", "CoreTelephony"
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
