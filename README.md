@@ -2,6 +2,15 @@
 
 Dxz Meeting iOS SDK是为 iOS 平台用户音视频服务的开源 SDK。通过大学长开放平台自研RTC，RTM系统,为客户提供质量可靠的音视频服务。
 
+使用方式：
+
++ Pod仓引用SDK
+
+```
+pod 'Cloud_Lvb_SDK'
+
+```
+
 # 类
 
 |             类名             |                             描述                             |
