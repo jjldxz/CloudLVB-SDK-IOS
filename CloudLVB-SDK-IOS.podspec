@@ -138,6 +138,6 @@ DaXueZhang Open Platform Audio Video Founction SDK For iOS - CloudLVB-SDK-IOS.
   spec.dependency "YYModel"
   spec.dependency "SocketRocket"
   spec.dependency "Protobuf"
-  spec.dependency "AgoraRtcEngine_iOS", "~>3.4.7"
+  spec.dependency "AgoraRtcEngine_iOS", "3.4.7"
 
 end
