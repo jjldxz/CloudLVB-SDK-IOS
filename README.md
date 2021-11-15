@@ -7,7 +7,7 @@ Dxz Meeting iOS SDK是为 iOS 平台用户音视频服务的开源 SDK。通过�
 + Pod仓引用SDK
 
 ```
-pod 'Cloud_Lvb_SDK'
+pod 'CloudLVB-SDK-IOS'
 
 ```
 
