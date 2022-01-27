@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CloudLVB-SDK-IOS'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'DaXueZhang Open Platform Audio Video Founction SDK For iOS - CloudLVB-SDK-IOS.'
 
   s.description      = <<-DESC
